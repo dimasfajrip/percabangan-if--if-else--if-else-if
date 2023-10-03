@@ -22,5 +22,7 @@ func main() {
 		fmt.Println("Cukup")
 	} else if nilai < 60 {
 		fmt.Println("Tidak Lulus")
+	} else {
+		fmt.Println("Nilai Tidak Diketahui")
 	}
 }
